@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+torch==2.2.2+cu121
+torchvision==0.17.2+cu121
+numpy==1.26.4
+matplotlib==3.10.8
+monai==1.5.2
+fvcore==0.1.5.post20221221
+scikit-image==0.25.2
+tqdm==4.65.0
+iopath==0.1.10
+yacs==0.1.8
+scipy==1.15.3
