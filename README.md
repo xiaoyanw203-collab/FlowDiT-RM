@@ -6,13 +6,20 @@ Official implementation of the manuscript:
 
 Submitted to *IEEE Transactions on Cognitive Communications and Networking*.
 
-Included code:
+## Repository Structure
 
-- Main model: `flowdit_rm/models/ablation_cond_dit.py`
-- Rectified-flow wrapper: `flowdit_rm/physics/phys_dit.py`
-- Dataset loader: `flowdit_rm/datasets/dataset.py`
-- Training entry point: `flowdit_rm/training/train_ablation_cond.py`
-- Evaluation entry point: `flowdit_rm/evaluation/cond.py`
+```text
+FlowDiT-RM/
+├── docx/
+├── scripts/
+├── flowdit_rm/
+│   ├── datasets/
+│   ├── models/
+│   ├── physics/
+│   ├── training/
+│   ├── evaluation/
+├── requirements.txt
+└── README.md
 
 Baselines and other ablation models were intentionally excluded.
 
