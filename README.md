@@ -1,6 +1,10 @@
 # FlowDiT-RM
 
-This repository contains the cleaned main-experiment code from `DiT_Flow`.
+Official implementation of the manuscript:
+
+**FlowDiT-RM: A Propagation-Prior Flow Transformer for Zero-Sampling 3D Radio Map Generation**
+
+Submitted to *IEEE Transactions on Cognitive Communications and Networking*.
 
 Included code:
 
